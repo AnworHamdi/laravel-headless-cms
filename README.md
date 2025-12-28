@@ -112,7 +112,7 @@ This headless CMS provides a robust, scalable backend for managing content acros
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/laravel-headless-cms.git
+git clone https://github.com/AnworHamdi/laravel-headless-cms.git
 cd laravel-headless-cms
 
 # Install PHP dependencies
